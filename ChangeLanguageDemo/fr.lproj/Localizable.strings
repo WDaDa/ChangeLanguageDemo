@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  ChangeLanguageDemo
+
+  Created by LarryRodic on 2017/10/11.
+  Copyright © 2017年 Tomato. All rights reserved.
+*/
+
+"简体中文" = "Chinois simplifié";
+"英语" = "Anglais";
+"法语" = "Français";
+"多语言切换" = "changé";
